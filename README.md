@@ -4,9 +4,10 @@ This repository is just to provide some general information on the state of HIP 
 
 # Generating a test result
 
-* Install and run [hip-tests](https://github.com/ROCm-Developer-Tools/hip-tests)
-* Get the percentage pass rate from the test
-* Put the architecture and ROCM version into the table if an entry doesn't already exist for your architecture and ROCM version
+* Install and run [hip-tests](https://github.com/ROCm-Developer-Tools/hip-tests).
+* Get the percentage pass rate from the test.
+* Put the architecture and ROCM version into the table if an entry doesn't already exist for your architecture and ROCM version.
+* Generate a pull request to insert your test result into the table.
 
 # Test results
 
