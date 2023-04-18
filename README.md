@@ -13,3 +13,4 @@ This repository is just to provide some general information on the state of HIP 
 Architecture | ROCM version | hip-test branch | Total tests | Tests failed | Pass rate (%) |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |gfx906 | 5.4.3 |  rocm-5.4.x | 1022 | 28 | 97 |
+|gfx1035 | 5.4.3 |  rocm-5.4.x | 1022 | 42 | 96 |
