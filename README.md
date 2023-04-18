@@ -6,6 +6,10 @@ This repository is just to provide some general information on the state of HIP 
 
 * Install and run [hip-tests](https://github.com/ROCm-Developer-Tools/hip-tests)
 * Get the percentage pass rate from the test
-* Put the architecture and ROCM version into the table
+* Put the architecture and ROCM version into the table if an entry doesn't already exist for your architecture and ROCM version
 
+# Test results
 
+Architecture | ROCM version | Pass rate (%)
+|:--:|:--:|:--:|
+|gfx906 | 5.4.3 | 97 |
